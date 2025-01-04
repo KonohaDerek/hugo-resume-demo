@@ -3,14 +3,14 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Résumé Hugo Theme # Website name
-baseURL: 'https://example.com/' # Website URL
+title: 德瑞克小窩 # Website name
+baseURL: 'https://www.k-derek.dev/' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: zh-tw
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true

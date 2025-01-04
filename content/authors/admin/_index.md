@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 陳鈺中
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chen Yu Zhong
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yu Zhong
+last_name: Chen
 
 # Status emoji
 status:
@@ -17,27 +17,23 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: 系統開發工程師
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: GenCoin
-    url: https://www.example.com/
+    url: https://www.k-derek.dev/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:mail@k-derek.dev'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/konodaderek
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
 
 education:
   - area: PhD Artificial Intelligence
